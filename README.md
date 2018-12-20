@@ -10,5 +10,9 @@
 
 ****
 
+       
+![示意图](https://github.com/qidizi/xunfei-tts-js-demo/raw/master/屏幕快照 2018-12-20 23.38.57.png)
+
+      
 
 
